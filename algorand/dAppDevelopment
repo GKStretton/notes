@@ -1,1 +1,13 @@
 dApp
+
+I learnt solidity before Reach, that helped.
+
+Then read this: https://docs.reach.sh/guide/solidity/
+
+Then read this: https://docs.reach.sh/tut/overview/#p_4
+
+1. You need to install docker and blah blah.. Read the readme on basic tutorial.
+2. wget the reach executable. I'm not sure why they get it into the current dir, I guess you could put it in path somewhere. I put it in ../reach.
+3. ../reach -h; ../reach init (for a new dir)
+4.
+
